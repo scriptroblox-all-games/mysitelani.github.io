@@ -6,6 +6,6 @@
     <title>Сайт со скриптами</title>
 </head>
 <body>
-    <h1></h1>
+    <h1>false</h1>
 </body>
 </html>
